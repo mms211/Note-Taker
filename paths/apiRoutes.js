@@ -4,7 +4,7 @@
 // These data sources hold arrays of information on table-data, waitinglist, etc.
 // ===============================================================================
 
-var noteData = require("../../db/db");
+var noteData = require("../db/db.json");
 
 // ===============================================================================
 // ROUTING
